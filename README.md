@@ -1,4 +1,4 @@
-# **Proyecto: Página MUSICVIBES Selección de Artistas** 
+# **Proyecto: Amigo secreto** 
 
 Este proyecto hace referencia al challenge del amigo secreto realizado en **programa ONE**.
 Es una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el **"amigo secreto"**.
